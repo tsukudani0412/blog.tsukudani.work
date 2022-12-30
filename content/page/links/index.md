@@ -1,14 +1,21 @@
 ---
 title: Links
 links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
+  - title: tsukudani.work
+    description: My Profile page.
+    website: https://tsukudani.work
+  - title: AS150325.net
+    description: AS150325 is my own autonomous system.
+    website: https://as150325.net
+    image: https://as150325.net/twitter_small.webp
+  - title: sakasausagi.com
+    description: this is sakasausagi. You can drag to rotate usagi.
+    website: https://sakasausagi.com
+    image: https://sakasausagi.com/sakasausagi.jpg
+  - title: meguru.moe
+    description: めぐるすき
+    website: https://meguru.moe
+    image: https://meguru.moe/meguru3.png
 menu:
     main: 
         weight: -50
@@ -17,21 +24,3 @@ menu:
 
 comments: false
 ---
-
-To use this feature, add `links` section to frontmatter.
-
-This page's frontmatter:
-
-```yaml
-links:
-  - title: GitHub
-    description: GitHub is the world's largest software development platform.
-    website: https://github.com
-    image: https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png
-  - title: TypeScript
-    description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
-    website: https://www.typescriptlang.org
-    image: ts-logo-128.jpg
-```
-
-`image` field accepts both local and external images.
