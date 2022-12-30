@@ -93,7 +93,7 @@ VRChatterとエンカした．8月はだいたいVRCかTeraTermで遊んでた�
 
 {{< tweet user="salty_poison" id="1574567018619027456" >}}
 {{< tweet user="salty_poison" id="1574604185202397189" >}}
-{{< tweet user="salty_poison" id="1574898926091571200" >}}
+{{< tweet user="salty_poison" id="1575414585611329536" >}}
 研修旅行(修学旅行とも言う)にて大阪，京都へ行った．
 
 {{< tweet user="salty_poison" id="1574898926091571200" >}}
