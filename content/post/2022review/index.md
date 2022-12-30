@@ -2,7 +2,7 @@
 title: "2022年の振り返り"
 description: Review of 2022.
 slug: 2022review
-date: 2022-12-30T23:00:00Z
+date: 2022-12-30T23:00:00+09:00
 draft: false
 ---
 
