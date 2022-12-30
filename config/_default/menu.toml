@@ -1,0 +1,22 @@
+[[social]]
+identifier = "twitter"
+name = "Twitter"
+url = "https://twitter.com/salty_poison"
+[social.params]
+icon = "brand-twitter"
+
+[[social]]
+identifier = "profile"
+name = "Profile"
+url = "https://tsukudani.work"
+[social.params]
+icon = "home-2"
+newtab = true
+
+[[social]]
+identifier = "as-page"
+name = "AS150325"
+url = "https://as150325.net"
+[social.params]
+icon = "box"
+newtab = true
